@@ -13,7 +13,7 @@ Os desafios têm por objetivo exercitar a lógica do programador,envolvendo conc
 <p> O nome do módulo faz jus ao nivel de dificuldade das questões contidas nele.<p>
 
 ## Como acompanhar este repositório:
-<p>Cada módulo terá sua respectiva pasta.Dentro de cada pasta do moódulo haverá outra pasta nomeada com o número da questão e conterá dois arquivos,sendo esses: 
+<p>Cada módulo terá sua respectiva pasta.Dentro de cada pasta do módulo haverá outra pasta nomeada com o número da questão e conterá dois arquivos,sendo esses: 
 
 - `enunciado.md`  - descrição do problema,bem como saída bem esperada.
 - `resolucao.js` - resolução do problema.
