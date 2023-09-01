@@ -12,17 +12,17 @@ Tecnologia da Federação. <p>
 ## Testes
 
 ## Teste 1: 
-- Entrada: [0,9,6,8,9,1,5,7]
-  Saída : [7,5,1,9,8,6,9,0]
+`-` Entrada: [0,9,6,8,9,1,5,7]
+`-` Saída : [7,5,1,9,8,6,9,0]
 
 ## Teste 2: 
-- Entrada: ['Oh','hi','Mark']
-  Saída : ['Mark','hi','Oh']
+`-` Entrada: ['Oh','hi','Mark']
+`-`Saída : ['Mark','hi','Oh']
 
 ## Teste 3: 
-- Entrada: [false,true,true,true]
-  Saída : [true,true,true,false]
+`-` Entrada: [false,true,true,true]
+`-` Saída : [true,true,true,false]
 
 ## Teste 3: 
-- Entrada: ["It's","not",true,0]
-  Saída : [0,true,"not","It's]
+`-` Entrada: ["It's","not",true,0]
+`-` Saída : [0,true,"not","It's]
